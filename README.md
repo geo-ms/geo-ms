@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Mayra Soto, I am a Young woman, Seismic interpreter geologist 
+### I am a Young woman, Seismic interpreter geologist. 
 ### 🌱 I'm currently learning the basic of programming but, I have plans to create a workflow that can improve the quality and timing on interpretations of horizons in seismic images
 ### I’m looking for help with machine learning workflows for geosciences and seismic in the oil and gas field. 
 - 💬 Ask me about interpretation horizons,attributes, processing. 
